@@ -8,15 +8,11 @@
 
 <h2 align="left">Hi 👋! My name is DemTay and I'm a french apprentice developer</h2>
 
-###
-
 <br clear="both">
 
 <div align="center">
   <img height="40" src="https://cdn.discordapp.com/attachments/1309235875632386150/1315015908850274474/Panels.png?ex=6755df80&is=67548e00&hm=c04d7cecc76e0ff7c79257d60c04d5633f301bb422d31e7e8ddc762c37542575&"  />
 </div>
-
-###
 
 <br clear="both">
 
