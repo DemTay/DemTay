@@ -1,10 +1,4 @@
-<br clear="both">
-
-<div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1309235875632386150/1315014437354078258/Headers_2.png?ex=6755de21&is=67548ca1&hm=bd9d63f3aba2beec2aface141217af5f99aff3ca23f3fffba5d6bf50ac328871&"  />
-</div>
-
-###
+<img src="Headers.png" alt="GitHub Banner" width="100%" />
 
 <h2 align="left">Hi 👋! My name is DemTay and I'm a french apprentice developer</h2>
 
