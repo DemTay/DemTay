@@ -8,13 +8,9 @@
 
 <h2 align="left">Hi 👋! My name is DemTay and I'm a french apprentice developer</h2>
 
-<br clear="both">
-
 <div align="center">
   <img height="40" src="https://cdn.discordapp.com/attachments/1309235875632386150/1315015908850274474/Panels.png?ex=6755df80&is=67548e00&hm=c04d7cecc76e0ff7c79257d60c04d5633f301bb422d31e7e8ddc762c37542575&"  />
 </div>
-
-<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="20" alt="npm logo"  />
@@ -38,8 +34,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DemTay/DemTay/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DemTay/DemTay/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DemTay/DemTay/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DemTay/DemTay/output/github-snake.svg" />
+</picture>
 
 ###
