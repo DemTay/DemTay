@@ -4,7 +4,7 @@
 
 <img src="Panel (1).png" alt="GitHub Banner" width="100%" />
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="20" alt="npm logo"  />
   <img width="13" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="20" alt="git logo"  />
