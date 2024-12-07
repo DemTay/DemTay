@@ -2,7 +2,7 @@
 
 <h2 align="left">Hi 👋! My name is DemTay and I'm a french apprentice developer</h2>
 
-<img src="Panel.png" alt="GitHub Banner" width="100%" />
+<img src="Panel (1).png" alt="GitHub Banner" width="100%" />
 
 <div align="left">
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="20" alt="npm logo"  />
