@@ -9,15 +9,11 @@
   <img width="13" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="20" alt="git logo"  />
   <img width="13" />
-  <img src="https://img.shields.io/badge/ABB RobotStudio-FF9E0F?logo=abbrobotstudio&logoColor=black&style=for-the-badge" height="20" alt="abbrobotstudio logo"  />
-  <img width="13" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="20" alt="javascript logo"  />
   <img width="13" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="20" alt="nodejs logo"  />
   <img width="13" />
   <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="20" alt="discord logo"  />
-  <img width="13" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="20" alt="windows8 logo"  />
   <img width="13" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="20" alt="sqlite logo"  />
   <img width="13" />
